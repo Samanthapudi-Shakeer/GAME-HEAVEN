@@ -86,7 +86,7 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
    - **Download ZIP:** Download the code as a ZIP file and extract it to your desired location.
    - **Clone Repository:** Use Git to clone the repository to your machine using the following command:
      ```bash
-     git clone https://github.com/Just-NK14/GameHouse.git ***apply
+     git clone https://github.com/Samanthapudi-Shakeer/GAME-HEAVEN.git 
      ```
      
 ### Running the Code:
@@ -94,7 +94,7 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
 
 2. Navigate to the specific game you want to play:
    ```bash
-   cd GameHouse ***apply
+   cd GAME-HEAVEN
    ```
 
 3. Compile the C++ file using your preferred compiler. For example, with GCC:
@@ -104,7 +104,7 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
 
 4. Run the executable file:
    ```bash
-   ./main   # You can also run the individual game by uncommenting the main function from each file
+   ./main.exe
    ```
 
 5. Follow the on-screen instructions to play the game.

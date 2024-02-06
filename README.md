@@ -1,5 +1,5 @@
 # GAME-HEAVEN
-Game Heaven with sassy Seven Games & 
+Game Heaven with Sassy Seven Games & 
 Embraces Multiplayer Games like Tic Tac Toe, Snake and Ladders, Chess, Sudoku, Word Guessing Game, Rock Paper Scissors,  and 16 Puzzle Game.
 
 ## Brief
@@ -13,6 +13,11 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
 5. Word Guessing Game
 6. Rock Paper Scissors
 7. 16 Puzzle Game
+
+## Instructions for Game-Play :
+-For every game, there will be detailed rules and procedures in the execution of the `main.cpp`.
+-Switch for `Rules` when asked for a choice in the terminal.
+
 
 ## 1. Tic-Tac-Toe
 - **File Name:** `XOplay.cpp`
@@ -38,7 +43,7 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
 - **File:** `SnakeLadders.cpp`
 - Snake-and-Ladders is a fun and unpredictable board game for two players.
 - Roll the dice, climb ladders, and watch out for snakes as you race to the finish.
-- Includes features like colorful board representation, dynamic player movements, and win conditions.
+- Includes features like colorful board representation for snakes and ladders, dynamic player movements, and win conditions.
 
 ## 5. Word Guessing Game
 - **File:** `Guessword.cpp`
@@ -55,11 +60,11 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
 - If both players choose the same move, the game is a tie.
 
   
-## 7. 16 Puzzle Game
+## 7. "16" Puzzle Game
 - **File:** `16puzz.cpp`
 - The game consists of a 4x4 grid with 15 numbers and a blank space.
-- Players must arrange numbers 1 to 15 in ascending order with the blank space in the last row, last column.
-- Use U/R/D/L commands to move the blank space.
+- Players must arrange numbers 1 to 15 in ascending order with the blank space in the last row, the last column.
+- Use U/R/D/L commands to move the blank space, where U for Up, D for Down, L for Left, R for Right.
 - 50% of generated boards are unsolvable.
 - Victory is achieved by solving the puzzle according to the objective.
 
@@ -67,17 +72,17 @@ Game Heaven is a collection of classic games built using C++ Object-Oriented Pro
 ## Main File
 - **File:** `main.cpp`
 - The main file provides a user-friendly interface to choose and play any of the games.
-- Navigate through the Game House menu to start, replay, rewind, or play another round.
+- Navigate through the Game Heaven menu to start, replay, rewind, or play another round.
 
-   Feel free to explore, have fun, and challenge yourself in the Game House! Enjoy the classic board gaming experience in C++.
+   Feel free to explore, have fun, and challenge yourself in the Game Heaven! Enjoy the classic board gaming experience in C++.
 
 
 ## How to Download and Run the Code
 
 ### Prerequisites:
-1. Ensure you have a C++ compiler installed on your system. If not, you can download one like [GCC](https://gcc.gnu.org/) for Unix-based systems or [MinGW](https://mingw-w64.org/doku.php) for Windows.
+1. Ensure you have a C++ compiler installed on your system. If not, you can download one like [GCC](https://gcc.gnu.org/) for Unix-based systems or [MinGW](https://mingw-w64.org/doku.php) for Windows. Do not support for other OS's.
 
-2. Make sure you have a terminal or command prompt available.
+2. Make sure you have a terminal or command prompt available with latest version.
 
 ### Downloading the Code:
 1. Click on the "Code" button at the top of the repository.
@@ -119,6 +124,7 @@ Feel free to explore and enjoy playing the classic board games in the Game Heave
 4. Enjoy hours of entertainment with these classic games.
 
 
+## Author : Shakeer Samanthapudi
 
 ## Contact
 For inquiries or support, please contact shannus084@gmail.com.

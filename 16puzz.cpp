@@ -142,7 +142,7 @@ void play16()
         switch (n)
         {
         case 1:
-            cout << "\nEntering Game :";
+            cout << "\nEntering Game :" << endl << endl;
             puz.playGame();
             break;
         case 2:
